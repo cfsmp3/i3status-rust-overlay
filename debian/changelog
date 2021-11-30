@@ -1,0 +1,9 @@
+rust-i3status-rs (0.20.7-1); urgency=medium
+
+  * Unofficial upload to test debcargo and prepare an initial debian package
+  * Contains Carlos' code not yet merge in the mainstream version
+  * Support for rofication (used by regolith-linux)
+  * Support for formatting in focused-window
+  * Package i3status-rs 0.20.7 from crates.io using debcargo 2.5.0
+
+ -- Carlos F. Sanz <carlos@sanz.dev>  Tue, 30 Nov 2021 15:32:30 -0800
